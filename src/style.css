@@ -1,12 +1,13 @@
 body {
   background-color: #f9f7fe;
+  font-family: "Poppins", sans-serif;
 }
 
 .weather-app {
   background-color: white;
   max-width: 600px;
   margin: 64px auto;
-  padding: 32px;
+  padding: 44px;
   border-radius: 12px;
   box-shadow: 0px 12px 24px 0px rgba(0, 0, 0, 0.1);
 }
