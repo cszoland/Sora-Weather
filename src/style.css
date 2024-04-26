@@ -11,3 +11,16 @@ body {
   border-radius: 12px;
   box-shadow: 0px 12px 24px 0px rgba(0, 0, 0, 0.1);
 }
+
+.search-form-input {
+  background-color: #f9f7fe;
+  border: none;
+  border-radius: 4px;
+  width: 80%;
+  font-size: 16px;
+  padding: 10px 20px;
+}
+
+::placeholder {
+  color: #8a93a2;
+}
