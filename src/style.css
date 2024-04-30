@@ -12,6 +12,10 @@ body {
   box-shadow: 0px 12px 24px 0px rgba(0, 0, 0, 0.1);
 }
 
+a {
+  color: #663ccf;
+}
+
 .search-form-input {
   background-color: #f9f7fe;
   border: none;
@@ -26,11 +30,19 @@ body {
 }
 
 .search-form-button {
-  background: #885df1;
+  background: #663ccf;
   padding: 12px 28px;
   border: none;
   margin-left: 4px;
   border-radius: 4px;
   font-size: 16px;
   color: white;
+}
+
+footer {
+  border-top: 2px solid #f9f7fe;
+  padding: 32px 0 0 0;
+  text-align: center;
+  font-size: 12px;
+  color: #626e83;
 }
