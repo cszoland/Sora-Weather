@@ -36,6 +36,7 @@ a {
 .search-form-button {
   background: #663ccf;
   padding: 12px 28px;
+  width: 116px;
   border: none;
   border-radius: 0 8px 8px 0;
   font-size: 16px;
