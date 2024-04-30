@@ -58,9 +58,15 @@ main {
 }
 
 .weather-app-details {
-  font-size: 16px;
-  line-height: 20px;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
   color: #abb2bd;
+}
+
+.weather-app-details strong {
+  color: #31bacc;
+  font-weight: 600;
 }
 
 footer {
