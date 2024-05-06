@@ -56,6 +56,7 @@ main {
   margin: 0;
   font-size: 38px;
   line-height: 48px;
+  color: #34383f;
 }
 
 .weather-app-details {
@@ -72,6 +73,7 @@ main {
 
 .weather-app-temperature {
   display: flex;
+  color: #34383f;
 }
 
 .weather-app-icon {
